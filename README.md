@@ -1,2 +1,3 @@
 # select-on-postgresql-via-jupyter-notebook
-Interroger une base de données PostgreSQL via un Jupyter Notebook 
+
+Ce dépôt GitHub contient un Jupyter Notebook à compléter montrant une manière d'interroger une base de données PostgreSQL en Python.
